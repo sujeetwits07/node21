@@ -1,0 +1,127 @@
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: radial-gradient- gradient(red, yellow, green);
+}
+div.fixed {
+  position: fixed;
+  bottom: 42;
+  right: 32;
+  width: 30;
+  border: 3px solid #73ad21;
+}
+
+/* guild Hub of the Metaverse */
+div.absolute {
+  position: absolute;
+  left: 8.36%;
+  right: 52.75%;
+  top: 6.44%;
+  bottom: 89.12%;
+
+  font-family: Outfit;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 88px;
+  /* or 110% */
+  letter-spacing: 0.2px;
+
+  /* text */
+  color: #ffffff;
+}
+
+/* lorem ipsum dolor sit amet, */
+div.absolute {
+  position: absolute;
+  left: 8.36%;
+  right: 54.78%;
+  top: 11.49%;
+  bottom: 86.24;
+
+  font-family: Outfit;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  /* or 150 */
+  letter-spacing: 0.2px;
+
+  /* light text */
+  color: #ffffff;
+}
+
+/* rectangle 19157 */
+div.absolut {
+  position: absolute;
+  width: 477px;
+  height: 71px;
+  left: 132px;
+  top: 586px;
+
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255);
+}
+
+div.absolute {
+  position: absolute;
+  width: 1056px;
+  height: 722px;
+  left: 586px;
+  top: 119px;
+
+  background: url(image.png);
+}
+
+div.absolute {
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  left: 637px;
+  top: 770px;
+}
+
+#grad {
+  background: radial-
+    gradient(
+      41.76% 41.76% at 50% 50%,
+      rgba(0, 56, 255, 0.24) 0%,
+      rgba(0, 133, 255, 0) 100%
+    );
+}
+
+div.absolute {
+  position: absolute;
+  width: 348.02px;
+  height: 348.02px;
+  left: 1025.87px;
+  top: 969px;
+
+  background: url(Monero-3.png);
+  transform: rotate(27.35deg);
+}
+
+/* Elipse 4177 */
+div.absolute {
+  position: absolute;
+  width: 212.74px;
+  height: 212.74px;
+  left: 1057.79px;
+  top: 1058.81px;
+
+  background: #000000;
+  box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.25);
+  transform: rotate(27.35deg);
+}
+
+/* image 6102 */
+div.absolute {
+  position: absolute;
+  width: 140.16px;
+  height: 140.16px;
+  left: 1094.22px;
+  top: 1107.95px;
+
+  background: url(image.png);
+  transform: rotate(39.56deg);
+}
