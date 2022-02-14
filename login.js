@@ -1,13 +1,12 @@
-import React from "react";
-import { Section, Para } from "../css/login";
+import styled from "styled-components";
+const Section = styled.div`
+  width: 200px;
+  height: 200px;
+  background: #eee;
+`;
 
-const Login = () => {
-  return (
-    <Section>
-      <h1>login</h1>
-      <Para>test</Para>
-    </Section>
-  );
-};
+const Para = styled.p`
+  color: red;
+`;
 
-export default Login;
+export { Section, Para };
